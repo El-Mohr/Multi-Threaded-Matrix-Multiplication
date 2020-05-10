@@ -1,5 +1,5 @@
 # Multi-Threaded-Matrix-Multiplication
-Multi-threaded Matrices multiplication using POSIX Threads 
+Multi-threaded Matrices multiplication using POSIX Threads for CS-333 Operating systems Course
 
 ## Code organization:
 - At first the main function reads the matrices A and B from their files and put their values in 2D arrays.
